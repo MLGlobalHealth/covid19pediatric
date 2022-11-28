@@ -4,12 +4,14 @@ URLs for reproducibility (note that NCHS updates their data retrospectively, so 
 
 COVID (U07.1):
 
-2021-22/0.txt - https://wonder.cdc.gov/controller/saved/D176/D312F590
-2021-22/1to4.txt - https://wonder.cdc.gov/controller/saved/D176/D312F591
-2021-22/5to9.txt - https://wonder.cdc.gov/controller/saved/D176/D312F592
-2021-22/10to14.txt - https://wonder.cdc.gov/controller/saved/D176/D312F593
-2021-22/15to19.txt - https://wonder.cdc.gov/controller/saved/D176/D312F594
-2021-22/0to19.txt -  https://wonder.cdc.gov/controller/saved/D176/D312F595
+Ages 0-19: https://wonder.cdc.gov/controller/saved/D176/D314F905 (all time)
+All ages: https://wonder.cdc.gov/controller/saved/D176/D314F907 (August 1 2021 - July 31 2022)
+2021-22/0.txt - https://wonder.cdc.gov/controller/saved/D176/D312F590 (August 1 2021 - July 31 2022)
+2021-22/1to4.txt - https://wonder.cdc.gov/controller/saved/D176/D312F591 (August 1 2021 - July 31 2022)
+2021-22/5to9.txt - https://wonder.cdc.gov/controller/saved/D176/D312F592 (August 1 2021 - July 31 2022)
+2021-22/10to14.txt - https://wonder.cdc.gov/controller/saved/D176/D312F593 (August 1 2021 - July 31 2022)
+2021-22/15to19.txt - https://wonder.cdc.gov/controller/saved/D176/D312F594 (August 1 2021 - July 31 2022)
+2021-22/0to19.txt -  https://wonder.cdc.gov/controller/saved/D176/D312F595 (August 1 2021 - July 31 2022)
 
 15 leading causes of death for 2019:
 2019/0to19.txt  - https://wonder.cdc.gov/controller/saved/D176/D312F596
