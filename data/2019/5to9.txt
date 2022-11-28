@@ -1,0 +1,55 @@
+"Notes"	"UCD - 15 Leading Causes of Death"	"UCD - 15 Leading Causes of Death Code"	Deaths	Population	Crude Rate
+	"#Accidents (unintentional injuries) (V01-X59,Y85-Y86)"	"GR113-112"	714	20195895	3.5
+	"#Malignant neoplasms (C00-C97)"	"GR113-019"	371	20195895	1.8
+	"#Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)"	"GR113-109"	192	20195895	1.0
+	"#Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)"	"GR113-127"	155	20195895	0.8
+	"#Diseases of heart (I00-I09,I11,I13,I20-I51)"	"GR113-054"	91	20195895	0.5
+	"#Chronic lower respiratory diseases (J40-J47)"	"GR113-082"	69	20195895	0.3
+	"#Influenza and pneumonia (J09-J18)"	"GR113-076"	52	20195895	0.3
+	"#Cerebrovascular diseases (I60-I69)"	"GR113-070"	37	20195895	0.2
+	"#Septicemia (A40-A41)"	"GR113-010"	36	20195895	0.2
+	"#In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)"	"GR113-044"	31	20195895	0.2
+	"#Anemias (D50-D64)"	"GR113-045"	15	20195895	Unreliable
+	"#Complications of medical and surgical care (Y40-Y84,Y88)"	"GR113-135"	15	20195895	Unreliable
+	"#Certain conditions originating in the perinatal period (P00-P96)"	"GR113-108"	14	20195895	Unreliable
+	"#Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)"	"GR113-124"	12	20195895	Unreliable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Five-Year Age Groups: 5-9 years"
+"Year/Month: 2019"
+"Group By: UCD - 15 Leading Causes of Death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: Disabled"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Nov 7, 2022 9:05:26 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Nov 7, 2022 9:05:26 AM"
+"---"
+Messages:
+"1. When you group results by 15 Leading Causes, results are initially ordered by Death counts; also, total rows, zero rows,"
+"suppressed rows, and Percent of Total are not available. Click any green up/down arrow to change the order. #Top15#"
+"---"
+Caveats:
+"1. When you group results by 15 Leading Causes, results show the top 15 rankable causes for the query criteria. Rankable causes"
+"are a subset of the ICD 113 and ICD 130 (Infants) Cause Lists. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Top15."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"5. Deaths occurring through October 01, 2022 as of October 11, 2022."

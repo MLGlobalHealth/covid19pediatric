@@ -1,0 +1,146 @@
+"Notes"	"ICD-10 113 Cause List"	"ICD-10 113 Cause List Code"	Deaths	Population	Crude Rate
+	"Certain other intestinal infections (A04,A07-A09)"	"GR113-003"	223	81625416	0.27
+	"#Meningococcal infection (A39)"	"GR113-009"	10	81625416	Unreliable
+	"#Septicemia (A40-A41)"	"GR113-010"	287	81625416	0.35
+	"Other and unspecified infectious and parasitic diseases and their sequelae (A00,A05,A20-A36,A42-A44,A48-A49,A54-A79,A81-A82,A85.0-A85.1,A85.8,A86-B04,B06-B09,B25-B49,B55-B99,U07.1)"	"GR113-018"	432	81625416	0.53
+	"#Malignant neoplasms (C00-C97)"	"GR113-019"	1704	81625416	2.09
+	"Malignant neoplasms of liver and intrahepatic bile ducts (C22)"	"GR113-024"	46	81625416	0.06
+	"Malignant neoplasms of trachea, bronchus and lung (C33-C34)"	"GR113-027"	14	81625416	Unreliable
+	"Malignant neoplasms of kidney and renal pelvis (C64-C65)"	"GR113-034"	46	81625416	0.06
+	"Malignant neoplasms of meninges, brain and other parts of central nervous system (C70-C72)"	"GR113-036"	513	81625416	0.63
+	"Malignant neoplasms of lymphoid, hematopoietic and related tissue (C81-C96)"	"GR113-037"	477	81625416	0.58
+	"Non-Hodgkin lymphoma (C82-C85)"	"GR113-039"	65	81625416	0.08
+	"Leukemia (C91-C95)"	"GR113-040"	405	81625416	0.50
+	"All other and unspecified malignant neoplasms (C17,C23-C24,C26-C31,C37-C41,C44-C49,C51-C52,C57-C60,C62-C63,C66,C68-C69,C73-C80,C97)"	"GR113-043"	570	81625416	0.70
+	"#In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior (D00-D48)"	"GR113-044"	185	81625416	0.23
+	"#Anemias (D50-D64)"	"GR113-045"	83	81625416	0.10
+	"#Diabetes mellitus (E10-E14)"	"GR113-046"	87	81625416	0.11
+	"#Nutritional deficiencies (E40-E64)"	"GR113-047"	24	81625416	0.03
+	"Malnutrition (E40-E46)"	"GR113-048"	17	81625416	Unreliable
+	"#Meningitis (G00,G03)"	"GR113-050"	66	81625416	0.08
+	"Major cardiovascular diseases (I00-I78)"	"GR113-053"	1217	81625416	1.49
+	"#Diseases of heart (I00-I09,I11,I13,I20-I51)"	"GR113-054"	867	81625416	1.06
+	"Hypertensive heart disease (I11)"	"GR113-056"	10	81625416	Unreliable
+	"Ischemic heart diseases (I20-I25)"	"GR113-058"	50	81625416	0.06
+	"Acute myocardial infarction (I21-I22)"	"GR113-059"	22	81625416	0.03
+	"Other forms of chronic ischemic heart disease (I20,I25)"	"GR113-061"	27	81625416	0.03
+	"All other forms of chronic ischemic heart disease (I20,I25.1-I25.9)"	"GR113-063"	23	81625416	0.03
+	"Other heart diseases (I26-I51)"	"GR113-064"	802	81625416	0.98
+	"Diseases of pericardium and acute myocarditis (I30-I31,I40)"	"GR113-066"	46	81625416	0.06
+	"Heart failure (I50)"	"GR113-067"	43	81625416	0.05
+	"All other forms of heart disease (I26-I28,I34-I38,I42-I49,I51)"	"GR113-068"	711	81625416	0.87
+	"#Cerebrovascular diseases (I60-I69)"	"GR113-070"	297	81625416	0.36
+	"Other diseases of circulatory system (I71-I78)"	"GR113-072"	42	81625416	0.05
+	"#Aortic aneurysm and dissection (I71)"	"GR113-073"	18	81625416	Unreliable
+	"Other diseases of arteries, arterioles and capillaries (I72-I78)"	"GR113-074"	24	81625416	0.03
+	"Other disorders of circulatory system (I80-I99)"	"GR113-075"	37	81625416	0.05
+	"#Influenza and pneumonia (J09-J18)"	"GR113-076"	472	81625416	0.58
+	"Influenza (J09-J11)"	"GR113-077"	172	81625416	0.21
+	"Pneumonia (J12-J18)"	"GR113-078"	300	81625416	0.37
+	"Other acute lower respiratory infections (J20-J22,U04)"	"GR113-079"	69	81625416	0.08
+	"#Acute bronchitis and bronchiolitis (J20-J21)"	"GR113-080"	63	81625416	0.08
+	"#Chronic lower respiratory diseases (J40-J47)"	"GR113-082"	259	81625416	0.32
+	"Bronchitis, chronic and unspecified (J40-J42)"	"GR113-083"	33	81625416	0.04
+	"Asthma (J45-J46)"	"GR113-085"	206	81625416	0.25
+	"Other chronic lower respiratory diseases (J44,J47)"	"GR113-086"	20	81625416	0.02
+	"#Pneumonitis due to solids and liquids (J69)"	"GR113-088"	27	81625416	0.03
+	"Other diseases of respiratory system (J00-J06,J30- J39,J67,J70-J98)"	"GR113-089"	421	81625416	0.52
+	"#Diseases of appendix (K35-K38)"	"GR113-091"	12	81625416	Unreliable
+	"#Hernia (K40-K46)"	"GR113-092"	20	81625416	0.02
+	"#Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)"	"GR113-097"	99	81625416	0.12
+	"Renal failure (N17-N19)"	"GR113-100"	85	81625416	0.10
+	"#Pregnancy, childbirth and the puerperium (O00-O99)"	"GR113-105"	26	81625416	0.03
+	"Other complications of pregnancy, childbirth and the puerperium (O10-O99)"	"GR113-107"	24	81625416	0.03
+	"#Certain conditions originating in the perinatal period (P00-P96)"	"GR113-108"	10387	81625416	12.73
+	"#Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)"	"GR113-109"	5286	81625416	6.48
+	"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified (R00-R99)"	"GR113-110"	2939	81625416	3.60
+	"All other diseases (Residual) "	"GR113-111"	2420	81625416	2.96
+	"#Accidents (unintentional injuries) (V01-X59,Y85-Y86)"	"GR113-112"	7444	81625416	9.12
+	"Transport accidents (V01-V99,Y85)"	"GR113-113"	3718	81625416	4.55
+	"Motor vehicle accidents (V02-V04,V09.0,V09.2,V12-V14,V19.0-V19.2,V19.4-V19.6,V20-V79,V80.3-V80.5,V81.0-V81.1,V82.0-V82.1,V83-V86,V87.0-V87.8,V88.0-V88.8,V89.0,V89.2)"	"GR113-114"	3560	81625416	4.36
+	"Other land transport accidents (V01,V05-V06,V09.1,V09.3-V09.9,V10-V11,V15-V18,V19.3,V19.8-V19.9,V80.0-V80.2,V80.6-V80.9,V81.2-V81.9,V82.2-V82.9,V87.9,V88.9,V89.1,V89.3,V89.9)"	"GR113-115"	94	81625416	0.12
+	"Water, air and space, and other and unspecified transport accidents and their sequelae (V90-V99,Y85)"	"GR113-116"	64	81625416	0.08
+	"Nontransport accidents (W00-X59,Y86)"	"GR113-117"	3726	81625416	4.56
+	"Falls (W00-W19)"	"GR113-118"	113	81625416	0.14
+	"Accidental discharge of firearms (W32-W34)"	"GR113-119"	117	81625416	0.14
+	"Accidental drowning and submersion (W65-W74)"	"GR113-120"	861	81625416	1.05
+	"Accidental exposure to smoke, fire and flames (X00-X09)"	"GR113-121"	228	81625416	0.28
+	"Accidental poisoning and exposure to noxious substances (X40-X49)"	"GR113-122"	766	81625416	0.94
+	"Other and unspecified nontransport accidents and their sequelae (W20-W31,W35-W64,W75-W99,X10-X39,X50-X59,Y86)"	"GR113-123"	1641	81625416	2.01
+	"#Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)"	"GR113-124"	2756	81625416	3.38
+	"Intentional self-harm (suicide) by discharge of firearms (X72-X74)"	"GR113-125"	1167	81625416	1.43
+	"Intentional self-harm (suicide) by other and unspecified means and their sequelae (*U03,X60-X71,X75-X84,Y87.0)"	"GR113-126"	1589	81625416	1.95
+	"#Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)"	"GR113-127"	2770	81625416	3.39
+	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	"GR113-128"	2023	81625416	2.48
+	"Assault (homicide) by other and unspecified means and their sequelae (*U01.0-*U01.3,*U01.5-*U01.9,*U02,X85-X92,X96-Y09,Y87.1)"	"GR113-129"	747	81625416	0.92
+	"#Legal intervention (Y35,Y89.0)"	"GR113-130"	36	81625416	0.04
+	"Events of undetermined intent (Y10-Y34,Y87.2,Y89.9)"	"GR113-131"	378	81625416	0.46
+	"Discharge of firearms, undetermined intent (Y22-Y24)"	"GR113-132"	64	81625416	0.08
+	"Other and unspecified events of undetermined intent and their sequelae (Y10-Y21,Y25-Y34,Y87.2,Y89.9)"	"GR113-133"	314	81625416	0.38
+	"#Complications of medical and surgical care (Y40-Y84,Y88)"	"GR113-135"	128	81625416	0.16
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Five-Year Age Groups: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years"
+"Year/Month: 2019"
+"Group By: ICD-10 113 Cause List"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 14, 2022 5:49:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Nov 14, 2022 5:49:49 AM"
+"---"
+Messages:
+"1. Totals and Percent of Total are disabled when data are grouped by 113 or 130 Cause Lists. Check Caveats below for more"
+"information."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. A '#' symbol preceding the label indicates a rankable cause of death. More information."
+"---"
+Caveats:
+"1. Totals and Percent of Total are disabled when data are grouped by a 113 or 130 Cause List because both aggregate and detailed"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
