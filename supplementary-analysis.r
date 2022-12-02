@@ -27,6 +27,14 @@ q=wonder2 %>% mutate(rate=round(100000*deaths/combined.pop,2)) %>% arrange(-rate
 wonder = rbind(wonder2,wonder3) %>% filter(grepl("#",cause))
 combined.pop = unique(wonder3$pop) # 81,625,416 0-19 year olds
 
+
+covid = fread(here("data/2021-22/0to19.txt"),nrows=1) %>%
+  select(cause=`Underlying Cause of death`,deaths=Deaths) %>% mutate(agegroup="[0,20)")
+
+covid$pop = as.numeric(pop_us %>% filter(Age < 20) %>% summarise(pop = sum(pop_age)))
+covid$rate = covid$deaths / covid$pop * 100000
+
+
 covid$agegroup = "[0,19)"
 q=rbind(wonder,covid) %>% mutate(rate=round(100000*deaths/combined.pop,2))  %>%  arrange(agegroup) #arrange(-rate)
 q=q[!duplicated(cause,fromLast=T),] %>% arrange(-rate)

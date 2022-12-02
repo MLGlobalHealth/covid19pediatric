@@ -17,7 +17,7 @@ for(month in 1:12) {
   covid = rbind(covid,
                 fread(here(sprintf("data/monthly/%d-%02d.txt",year,month)),nrows=1) %>% mutate(month=month,year=year))
 }
-sum(covid$Deaths)
+sum(covid$Deaths[7:12])
 
 year = 2022
 for(month in 1:8) {
