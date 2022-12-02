@@ -66,12 +66,10 @@ ggsave(g,filename = here("figures/US-death-rate-age-groups-21-22.png"),width=7,h
 
 d = rbind(covid,wonder) %>% left_join(wonder.allcause,by="agegroup")
 
-## for text in paper: 
-## Covid-19 accounted for 0.7% (<1 year old), 2.4% (1-4 year olds), 3.4% (5-9 year olds), 3.7% (10-14 year olds), and 3.8% (15-19 year olds) of all causes of death by age group
-pct = d %>%
-  group_by(agegroup) %>% mutate(percent = round(100*deaths/total.deaths,1),
-                                old.percent=deaths/sum(deaths)) %>% arrange(-percent)
-pct %>% filter(cause ==  "COVID-19") %>% arrange(agegroup)
+# pct = d %>%
+#   group_by(agegroup) %>% mutate(percent = deaths/total.deaths,
+#                                 old.percent=deaths/sum(deaths)) %>% arrange(-percent) 
+# pct %>% filter(cause ==  "COVID-19") %>% arrange(agegroup)
 
 # d = d %>% mutate()
 for(ag in unique(d$agegroup)) {
