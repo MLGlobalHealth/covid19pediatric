@@ -22,16 +22,17 @@
 	"COVID-19"	"U07.1"	"Dec., 2021 (provisional)"	"2021/12"	82	Not Applicable	Not Applicable
 	"COVID-19"	"U07.1"	"Jan., 2022 (provisional)"	"2022/01"	160	Not Applicable	Not Applicable
 	"COVID-19"	"U07.1"	"Feb., 2022 (provisional)"	"2022/02"	67	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"Mar., 2022 (provisional)"	"2022/03"	32	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Mar., 2022 (provisional)"	"2022/03"	33	Not Applicable	Not Applicable
 	"COVID-19"	"U07.1"	"Apr., 2022 (provisional)"	"2022/04"	21	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"May, 2022 (provisional)"	"2022/05"	31	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"Jun., 2022 (provisional)"	"2022/06"	22	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"Jul., 2022 (provisional)"	"2022/07"	31	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"Aug., 2022 (provisional)"	"2022/08"	36	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"Sep., 2022 (provisional)"	"2022/09"	17	Not Applicable	Not Applicable
-	"COVID-19"	"U07.1"	"Oct., 2022 (provisional)"	"2022/10"	10	Not Applicable	Not Applicable
-"Total"	"COVID-19"	"U07.1"			1289	Not Applicable	Not Applicable
-"Total"					1289	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"May, 2022 (provisional)"	"2022/05"	33	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Jun., 2022 (provisional)"	"2022/06"	25	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Jul., 2022 (provisional)"	"2022/07"	33	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Aug., 2022 (provisional)"	"2022/08"	43	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Sep., 2022 (provisional)"	"2022/09"	22	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Oct., 2022 (provisional)"	"2022/10"	13	Not Applicable	Not Applicable
+	"COVID-19"	"U07.1"	"Nov., 2022 (provisional)"	"2022/11"	10	Not Applicable	Not Applicable
+"Total"	"COVID-19"	"U07.1"			1320	Not Applicable	Not Applicable
+"Total"					1320	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Month"
 "Query Parameters:"
@@ -46,13 +47,13 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Dec 29, 2022 3:12:52 PM"
+"Query Date: Jan 26, 2023 8:21:10 AM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
 "and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Dec 29, 2022 3:12:52"
-"PM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jan 26, 2023 8:21:10"
+"AM"
 "---"
 Messages:
 "1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
@@ -88,4 +89,4 @@ Caveats:
 "'Data not shown due to 6 month lag to account for delays in death certificate completion for certain causes of death.' For these"
 "deaths occurring 24 weeks prior to the final date in the provisional data, the number of deaths and related statistics are not"
 "available by specific cause of death for ICD-10 codes V01-Y89, R95 or R96."
-"9. Deaths occurring through November 19, 2022 as of December 04, 2022."
+"9. Deaths occurring through December 17, 2022 as of January 02, 2023."

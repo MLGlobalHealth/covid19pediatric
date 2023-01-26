@@ -4,8 +4,10 @@ URLs for reproducibility (note that NCHS updates their data retrospectively, so 
 
 COVID (U07.1):
 
-* Ages 0-19: https://wonder.cdc.gov/controller/saved/D176/D314F905 (all time)
-* All ages: https://wonder.cdc.gov/controller/saved/D176/D314F907 (August 1 2021 - July 31 2022)
+also see: https://wonder.cdc.gov/controller/saved/D176/D318F272
+
+Ages 0-19: https://wonder.cdc.gov/controller/saved/D176/D314F905 (all time)
+All ages: https://wonder.cdc.gov/controller/saved/D176/D314F907 (August 1 2021 - July 31 2022)
 * 2021-22/0.txt - https://wonder.cdc.gov/controller/saved/D176/D312F590 (August 1 2021 - July 31 2022)
 * 2021-22/1to4.txt - https://wonder.cdc.gov/controller/saved/D176/D312F591 (August 1 2021 - July 31 2022)
 * 2021-22/5to9.txt - https://wonder.cdc.gov/controller/saved/D176/D312F592 (August 1 2021 - July 31 2022)
@@ -33,12 +35,4 @@ total numbers of deaths for 2019:
 * 2019/15to19-allcause.txt - https://wonder.cdc.gov/controller/saved/D176/D314F903
 
 Monthly COVID deaths for 2020-22:
-* monthly/2022-08.txt - https://wonder.cdc.gov/controller/saved/D176/D315F567
-* monthly/2022-07.txt - https://wonder.cdc.gov/controller/saved/D176/D315F568
-* monthly/2022-06.txt - https://wonder.cdc.gov/controller/saved/D176/D315F570
-* monthly/2022-05.txt - https://wonder.cdc.gov/controller/saved/D176/D315F569
-* monthly/2022-04.txt - https://wonder.cdc.gov/controller/saved/D176/D315F571
-* monthly/2022-03.txt - https://wonder.cdc.gov/controller/saved/D176/D315F572
-* monthly/2022-02.txt - https://wonder.cdc.gov/controller/saved/D176/D315F573
-* monthly/2022-01.txt - https://wonder.cdc.gov/controller/saved/D176/D315F574
-* monthly/2021-12.txt - https://wonder.cdc.gov/controller/saved/D176/D315F574
+* monthly.txt - https://wonder.cdc.gov/controller/saved/D176/D318F281
