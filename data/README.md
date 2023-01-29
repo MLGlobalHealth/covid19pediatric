@@ -1,23 +1,23 @@
 Data was downloaded from wonder.cdc.gov in November/December 2022 (check the CSVs for exact dates).
 
-URLs for reproducibility (note that NCHS updates their data retrospectively, so you may obtain different counts, especially for September 2022).
+URLs for reproducibility (note that NCHS updates their data retrospectively, so you will obtain slightly different counts than what is in the paper, especially for September 2022).
 
 COVID (U07.1):
 
-also see: https://wonder.cdc.gov/controller/saved/D176/D318F272
+* All ages, all time: https://wonder.cdc.gov/controller/saved/D176/D318F844
 
-Ages 0-19: https://wonder.cdc.gov/controller/saved/D176/D314F905 (all time)
-All ages: https://wonder.cdc.gov/controller/saved/D176/D314F907 (August 1 2021 - July 31 2022)
-* 2021-22/0.txt - https://wonder.cdc.gov/controller/saved/D176/D312F590 (August 1 2021 - July 31 2022)
-* 2021-22/1to4.txt - https://wonder.cdc.gov/controller/saved/D176/D312F591 (August 1 2021 - July 31 2022)
-* 2021-22/5to9.txt - https://wonder.cdc.gov/controller/saved/D176/D312F592 (August 1 2021 - July 31 2022)
-* 2021-22/10to14.txt - https://wonder.cdc.gov/controller/saved/D176/D312F593 (August 1 2021 - July 31 2022)
-* 2021-22/15to19.txt - https://wonder.cdc.gov/controller/saved/D176/D312F594 (August 1 2021 - July 31 2022)
-* 2021-22/0to19.txt -  https://wonder.cdc.gov/controller/saved/D176/D312F595 (August 1 2021 - July 31 2022)
+COVID (U07.1) for the study period August 1 2021 - July 31 2022
+
+* 2021/age-cats.txt: https://wonder.cdc.gov/controller/saved/D176/D318F272
+* All ages: https://wonder.cdc.gov/controller/saved/D176/D314F907
+
+Monthly COVID (U07.1) deaths for 2020-22:
+* monthly.txt - https://wonder.cdc.gov/controller/saved/D176/D318F281
 
 The following URLs should give data that does not change, whenever it is downloaded:
 
 15 leading causes of death for 2019:
+
 * 2019/0to19.txt  - https://wonder.cdc.gov/controller/saved/D176/D312F596
 * 2019/0.txt - https://wonder.cdc.gov/controller/saved/D176/D312F597
 * 2019/1to4.txt - https://wonder.cdc.gov/controller/saved/D176/D312F598
@@ -34,5 +34,3 @@ total numbers of deaths for 2019:
 * 2019/10to14-allcause.txt - https://wonder.cdc.gov/controller/saved/D176/D314F902
 * 2019/15to19-allcause.txt - https://wonder.cdc.gov/controller/saved/D176/D314F903
 
-Monthly COVID deaths for 2020-22:
-* monthly.txt - https://wonder.cdc.gov/controller/saved/D176/D318F281
