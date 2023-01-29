@@ -2,6 +2,6 @@
 
 Data is available from [CDC Wonder](https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html) and [CDC Wonder Provisional](https://wonder.cdc.gov/mcd-icd10-provisional.html).
 
-Direct links to download the files for replicating the analysis in the paper can be found in the data directory README.md
+Direct links to download the files for replicating the analysis in the paper can be found in the data directory [README.md](https://github.com/MLGlobalHealth/covid19pediatric/tree/main/data/README.md)
 
 
