@@ -31,7 +31,7 @@ g = g +  geom_text(aes(label=Deaths),vjust=-.25)
 
 g
 ggsave(here("figures/timeseries.png"),g,width=10*.8,height=8*.6)
-ggsave(here("figures/timeseries.svg"),g,width=10*.8,height=8*.6)
+# ggsave(here("figures/timeseries.svg"),g,width=10*.8,height=8*.6)
 
 # annual1 = NULL
 # dd = covid$Deaths
@@ -74,4 +74,4 @@ g = g + theme(legend.position="none",plot.margin=margin(5,20,20,5))
 g = g +  geom_text(aes(label=x),hjust=-.15)
 g
 ggsave(here("figures/ranks.png"),g,width=10*.8,height=8*.6)
-ggsave(here("figures/ranks.svg"),g,width=10*.8,height=8*.6)
+# ggsave(here("figures/ranks.svg"),g,width=10*.8,height=8*.6)

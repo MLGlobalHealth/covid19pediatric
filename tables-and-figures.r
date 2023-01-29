@@ -73,7 +73,7 @@ g = g +  geom_text(aes(label=round(rate,1)),vjust=-.25) #, position=position_dod
 
 g
 ggsave(g,filename = here("figures/US-death-rate-age-groups-21-22.png"),width=7,height=4)
-ggsave(g,filename = here("figures/US-death-rate-age-groups-21-22.svg"),width=7,height=4)
+# ggsave(g,filename = here("figures/US-death-rate-age-groups-21-22.svg"),width=7,height=4)
 
 d = rbind(covid,wonder) %>% left_join(wonder.allcause,by="agegroup")
 
