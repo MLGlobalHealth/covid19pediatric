@@ -1,4 +1,4 @@
-# Replication files for "Assessment of COVID-19 as the Underlying Cause of Death Among Children Aged 0- to 19 Years Old in the US" (Flaxman et al, JAMA Network Open, 2023) - [paper link](http://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2022.53590?utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_term=013023)
+# Replication files for "Assessment of COVID-19 as the Underlying Cause of Death Among Children Aged 0- to 19 Years Old in the US" (Flaxman et al, JAMA Network Open, 2023) - [paper link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800816)
 
 
 Data is available from [CDC Wonder](https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html) and [CDC Wonder Provisional](https://wonder.cdc.gov/mcd-icd10-provisional.html).
