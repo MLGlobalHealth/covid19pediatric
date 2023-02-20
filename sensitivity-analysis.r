@@ -5,7 +5,7 @@ library(tidyverse)
 ## COVID-19 (U07.1) as an underlying cause of death for the study period
 ## see .txt files for date on which the data was accessed
 ## as more data becomes available, change the end date -- recent months are incomplete
-END_DATE = as.Date("2022-09-01")
+END_DATE = as.Date("2022-10-01")
 
 covid = fread(here("data/monthly.txt")) # fine to ignore the warning
 dates = as.Date(strptime(paste0(covid$`Month Code`,"/01"),format = "%Y/%m/%d"))
@@ -22,7 +22,7 @@ g = g + geom_bar(stat="identity")
 
 g = g + theme_bw() + ylab("")
 g = g + 
-  scale_x_date(breaks = seq(as.Date("2020-04-01"), as.Date("2022-07-01"), by="3 months"), 
+  scale_x_date(breaks = seq(as.Date("2020-04-01"), as.Date("2022-10-01"), by="3 months"), 
                date_labels = "%b\n%Y",expand=c(.5/12,0)) + scale_y_continuous(limits=c(0,180),
                                                                               expand=c(0,0))
 g = g + ylab("Deaths")
