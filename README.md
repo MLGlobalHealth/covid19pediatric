@@ -5,7 +5,7 @@ Data is available from [CDC Wonder](https://wonder.cdc.gov/Deaths-by-Underlying-
 
 Direct links to download the files for replicating the analysis in the paper can be found in the data directory [README.md](https://github.com/MLGlobalHealth/covid19pediatric/tree/main/data/README.md)
 
-Here are figures that correspond to the ones in the paper, updated using data downloaded on January 29, 2023:
+Here are figures that correspond to the ones in the paper, updated using data downloaded on February 20, 2023:
 
 # Figure 1A
 ![Figure 1(a)](https://github.com/MLGlobalHealth/covid19pediatric/blob/main/figures/US-death-rate-age-groups-21-22.png)
