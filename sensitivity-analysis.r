@@ -5,7 +5,7 @@ library(tidyverse)
 ## COVID-19 (U07.1) as an underlying cause of death for the study period
 ## see .txt files for date on which the data was accessed
 ## as more data becomes available, change the end date -- recent months are incomplete
-END_DATE = as.Date("2022-10-01")
+END_DATE = as.Date("2022-11-01")
 
 covid = fread(here("data/monthly.txt")) # fine to ignore the warning
 dates = as.Date(strptime(paste0(covid$`Month Code`,"/01"),format = "%Y/%m/%d"))
@@ -61,7 +61,7 @@ df$rank[df$x < 297] = "Rank 10"
 df = rbind(df,data.frame(x=c(867,472,297),date=c("Heart disease in 2019",
                                                  "Influenza/pneumonia in 2019",
                                                  "Cerebrovascular diseases in 2019"),
-                         type="Deaths in 2019",order=c(20,6.5,.5),
+                         type="Deaths in 2019",order=c(max(df$order)+1,6.5,.5),
                          rank=c("Rank 7 in 2019","Rank 8 in 2019","Rank 9 in 2019")))
 
 df = df[order(df$order),]
